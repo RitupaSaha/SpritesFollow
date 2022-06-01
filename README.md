@@ -1,1 +1,2 @@
-# SpritesFollow
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
